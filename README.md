@@ -1,0 +1,2 @@
+# useless-repo
+egg
